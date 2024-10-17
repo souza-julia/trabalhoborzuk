@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+    background-color: rgb(229, 242, 253);
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.titulo{
+    background: linear-gradient(135deg, #00ccff, #024be7, #1900fd); /* Cor de fundo */
+    color: white; /* Texto branco */
+    padding: 10px; /* Espaçamento */
+    text-align: center; /* Centraliza o texto */
+}
+
+.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Ititulo{
+    background: linear-gradient(135deg, #00ccff, #024be7, #1900fd); /* Cor de fundo */
+    color: white; /* Texto branco */
+    padding: 10px; /* Espaçamento */
+    text-align: center; /* Centraliza o texto */
+}
+
+.Ititulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.IItitulo{
+    background: linear-gradient(135deg, #00ccff, #024be7, #1900fd); /* Cor de fundo */
+    color: white; /* Texto branco */
+    padding: 10px; /* Espaçamento */
+    text-align: center; /* Centraliza o texto */
+}
+
+.IItitulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.IIItitulo{
+    background: linear-gradient(135deg, #00ccff, #024be7, #1900fd); /* Cor de fundo */
+    color: white; /* Texto branco */
+    padding: 10px; /* Espaçamento */
+    text-align: center; /* Centraliza o texto */
+}
+
+.IIItitulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.rodape {
+    background: linear-gradient(135deg, #00ccff, #024be7, #1900fd); /* Cor de fundo */
+    color: white; /* Texto branco */
+    padding: 10px; /* Espaçamento interno */
+    position: fixed; /* Fixa o rodapé na parte inferior */
+    bottom: 0; /* Alinha ao fundo da página */
+    width: 100%; /* Para ocupar toda a largura da página */
+}
+
+.rodape footer p {
+    margin: 2px 0; /* Espaçamento entre os parágrafos */
+}
+
+.logo {
+    width: 60px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-left: auto; /* Push logo to the right */
+    align-items: left;
+}
